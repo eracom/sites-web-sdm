@@ -1,0 +1,19 @@
+body {
+    background: #ceffca;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+iframe {
+    flex-grow: 1;
+    height: auto;
+}
+
+nav {
+    background: #b3d0b0;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
